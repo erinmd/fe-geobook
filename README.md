@@ -29,7 +29,14 @@ The app allows users to:
 ## Versions needed
 Node >= v19.8
 
-## How to run this project locally
+## How to run this project
+
+### Set up Firebase
+
+1. Start a firebase project https://console.firebase.google.com/
+2. Create a file firebaseConfig.js, use firebaseConfigExample.js to guide what information you need. You can get this information from Project Overview settings on firebase.
+
+### Run locally
 
 1. Fork and clone the repo
 
